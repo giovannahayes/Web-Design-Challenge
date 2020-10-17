@@ -11,7 +11,6 @@
 #### The live deployed website can be found here: [Web Visualization](https://giovannahayes.github.io/Web-Design-Challenge/index.html)
 
 ## Website Pages
-#### For reference, see the "Screenshots" section below.
 #### The website consists of 7 pages total:
 #### A landing page containing:
 * An explanation of the project.
